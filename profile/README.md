@@ -6,4 +6,9 @@
 </p>
 <p align="center"><img width="30%" src="https://github.com/Strivescope/Strivescope/raw/main/branding/strivescope_logo.png" /></p>
 
-Strivescope is a community of resolute FOSS developers who seek to learn and improve. Join our GitHub Organization 😄!
+Strivescope is a community of resolute Free and Open Source Software (FOSS) developers who seek to learn and improve. Join our GitHub Organization 😄!
+
+## Our values:
+At Strivescope we have 2 core values which we believe to be fundamental to improve as a person and software developer:
+**Resolution.**
+**Self-knowledge.**
