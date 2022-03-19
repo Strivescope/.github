@@ -19,5 +19,5 @@ At Strivescope we have 3 core values which we believe to be fundamental to impro
 
 ## Get involved!
 Want to be part of Strivescope? You can join our Discord server and GitHub organization right now!
-- To join the Discord server, click this link: https://discord.gg/bAmGn4t3vN.
+- To join the Discord server, click this link: https://discord.gg/MEpzZgNs4F.
 - To join the GitHub organization, open an issue in our support repository and wait until you get invited: https://github.com/Strivescope/Strivescope.
