@@ -14,10 +14,12 @@ We believe that everyone has the opportunity to do great things if they constant
 ## Our values:
 At Strivescope we have 3 core values which we believe to be fundamental to improve as a person and software developer:
 
-- **Determination:**
-- **Self-knowledge:**
-- **Care for others:**
+- **Determination:** We daresay that everyone should be determined to reach their goals because only in this way they will be able to get their full potential always.
+- **Self-knowledge:** It is really important to know oneself in order to know what you're doing good and what you're doing wrong so you can get to improve the negative aspects.
+- **Care for others:** Caring for others is fundamental to be able to collaborate with each other and reach the common good.
 
 ## What do we do?
+- **Collaborate in FOSS projects.**
+- **Network with other people who share our interests.**
 
 ## Get involved!
