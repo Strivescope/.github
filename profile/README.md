@@ -8,7 +8,16 @@
 
 Strivescope is a community of resolute Free and Open Source Software (FOSS) developers who seek to learn and improve. Join our GitHub Organization 😄!
 
+## Our mission:
+We believe that everyone has the opportunity to do great things if they constantly strive towards it.
+
 ## Our values:
-At Strivescope we have 2 core values which we believe to be fundamental to improve as a person and software developer:
-**Resolution.**
-**Self-knowledge.**
+At Strivescope we have 3 core values which we believe to be fundamental to improve as a person and software developer:
+
+- **Determination:**
+- **Self-knowledge:**
+- **Care for others:**
+
+## What do we do?
+
+## Get involved!
