@@ -1,5 +1,5 @@
 <h1 align="center">Strivescope</h1>
-<p align="center"><img width="30%" src="https://github.com/Strivescope/Strivescope/raw/main/branding/strivescope_logo.png" /></p>
+<p align="center"><img width="30%" src="https://user-images.githubusercontent.com/46727048/214731127-b619c2ed-0328-4bf5-a248-74c7e2aa228f.png" /></p>
 
 Strivescope is a community of resolute Free and Open Source Software (FOSS) developers who seek to learn and improve. Join our GitHub Organization 😄!
 
